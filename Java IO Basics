@@ -20,7 +20,7 @@ public class JavaApplication1 {
         }
         
         for(String i: strLi){
-            System.out.println(i+"\n");
+            System.out.println(i);
         }
     }
     

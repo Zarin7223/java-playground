@@ -59,3 +59,6 @@ public class LinkedList{
     n = n.next; //changed n now, this n is separte and has no link to the original node, in this case head.
     n = m;
     */
+
+//Resources:
+//http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/LinkedListNotes.Iteration.html
